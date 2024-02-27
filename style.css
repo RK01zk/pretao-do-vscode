@@ -1,0 +1,29 @@
+body{
+    font-family: 'poppins',sans-serif;
+}
+
+
+
+header {
+    background-color: cyan;
+    color: rgb(10, 10, 10);
+}
+
+.cabecalho-imagem{
+
+    width: 20%;
+}
+
+.cabecalho{
+
+background-color: #e60303;
+color: black;
+display: flex;
+justify-content: space-around;
+}
+
+.cabecalho-lista-item{
+
+display: inline-block;
+
+}
